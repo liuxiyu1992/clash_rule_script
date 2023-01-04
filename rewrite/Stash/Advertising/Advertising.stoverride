@@ -1,11 +1,11 @@
 name: 复写去广告
-desc: 最后更新时间 2023-01-04 02:13:12
+desc: 最后更新时间 2023-01-05 02:15:49
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
-# reject: 549
+# reject: 546
 # mitm: 500
 # force-http-engine-hosts: 6
-# total: 1055
+# total: 1052
 
 
 
@@ -15,6 +15,7 @@ http:
   rewrite:
     - ^https:\/\/acs\.m\.taobao\.com\/gw\/mtop\.fliggy\.crm\.screen\.allresource - reject
     - ^https:\/\/api\.caiyunapp\.com\/v1\/activity - reject
+    - ^https:\/\/mxsa\.mxbc\.net\/api\/v1\/adinfo\/limitedAds$ - reject
     - ^https:\/\/router-app-api\.jdcloud\.com\/v\d\/board\/routerAppSplash - reject
     - ^https:\/\/vip7\.fzwdyy\.cn:8083\/api\/(getAdvertInfo|getGOOGAdvert) - reject
     - ^https?:\/\/((25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)\.){3}(25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)(:\d+)?\/V\d\/splash\/getSplashV\d\.action$ - reject
@@ -238,7 +239,6 @@ http:
     - ^https?:\/\/cmsapi\.wifi8\.com\/v\d\/(emptyAd|adNew)\/ - reject
     - ^https?:\/\/cn-acs\.m\.cainiao\.com\/gw\/mtop\.cainiao\.guoguo\.nbnetflow\.ads\.(show|mshow)\.cn\/ - reject
     - ^https?:\/\/cntv\.hls\.cdn\.myqcloud\.com\/.+?\?maxbr=850 - reject
-    - ^https?:\/\/consumer\.fcbox\.com\/v\d\/ad\/ - reject
     - ^https?:\/\/creditcardapp\.bankcomm\.cn\/mappweb_interface\/common\/(qryPopAds|qryLaunchAds)\.do - reject
     - ^https?:\/\/creditcardapp\.bankcomm\.com\/mapp\/common\/getPopAds\.do$ - reject
     - ^https?:\/\/creditcardapp\.bankcomm\.com\/mapp\/common\/queryGuidePageAds\.do - reject
@@ -339,7 +339,6 @@ http:
     - ^https?:\/\/lchttpapi\.xczim\.com\/1\.1\/functions\/getLaunchImageForIOS - reject
     - ^https?:\/\/learn\.chaoxing\.com\/apis\/service\/appConfig\? - reject
     - ^https?:\/\/list-app-m\.i4\.cn\/getopfstadinfo\.xhtml - reject
-    - ^https?:\/\/m5\.amap\.com\/ws\/valueadded\/ - reject
     - ^https?:\/\/m\.ads\.8le8le\.com\/adShow - reject
     - ^https?:\/\/m\.caijing\.com\.cn\/startup_ad_ios\.html$ - reject
     - ^https?:\/\/m\.client\.10010\.com\/mobileService\/(activity|customer)\/(accountListData|get_client_adv|get_startadv) - reject
@@ -449,7 +448,7 @@ http:
     - ^https?:\/\/s1\.api\.tv\.itc\.cn\/v\d\/mobile\/control\/switch\.json - reject
     - ^https?:\/\/s\d\.zdmimg\.com\/www\/api\/v\d\/api\/thirdAd\.php - reject
     - ^https?:\/\/saad\.ms\.zhangyue\.net\/ad - reject
-    - ^https?:\/\/sdk\.alibaba\.com\.ailbaba\.me\/xgapp\.php\/v\d\/version - reject
+    - ^https?:\/\/sdk\.alibaba\.com\.ailbaba\.me\/.*?\/v\d\/(version|top_notice\?|advert\?position=[^2]+) - reject
     - ^https?:\/\/sdkapp\.uve\.weibo\.com\/interface\/sdk\/actionad\.php - reject
     - ^https?:\/\/service\.4gtv\.tv\/4gtv\/Data\/(GetAD|ADLog) - reject
     - ^https?:\/\/service\.busi\.inke\.cn\/api\/flash\/screen - reject
@@ -537,9 +536,7 @@ http:
     - ^https?:\/\/yxhd\.hori-gz\.com\/\/jfmsApi\/commandWord\/commandWordInfo - reject
     - ^https?:\/\/yxyapi\d\.drcuiyutao\.com\/yxy-api-gateway\/api\/json\/advert\/ - reject
     - ^https?:\/\/zconfig\.alibabausercontent\.com\/zconfig - reject
-    - ^https?:\/\/zjdr666\.com\/zjdr\.php\/v\d\/advert\?position=[^2]+ - reject
-    - ^https?:\/\/zjdr666\.com\/zjdr\.php\/v\d\/top_notice\? - reject
-    - ^https?:\/\/zjdr666\.com\/zjdr\.php\/v\d\/version - reject
+    - ^https?:\/\/zjdr666\.com\/zjdr\.php\/v\d\/(version|top_notice\?|advert\?position=[^2]+) - reject
     - ^https?:\/\/zjh5api\.189smarthome\.com:\d+\/xygj-config-api\/queryData - reject
     - ^https?:\/\/zone\.guiderank-app\.com\/guiderank-web\/app\/ad\/listLaunchADByCity\.do - reject
     - https?:\/\/access\.mypikpak\.com\/access_controller\/v1\/area_accessible - reject
@@ -780,7 +777,6 @@ http:
     - "cmsapi.wifi8.com"
     - "cn-acs.m.cainiao.com"
     - "cntv.hls.cdn.myqcloud.com"
-    - "consumer.fcbox.com"
     - "creditcardapp.bankcomm.cn"
     - "creditcardapp.bankcomm.com"
     - "ct.xiaojukeji.com"
@@ -928,6 +924,7 @@ http:
     - "ms.jr.jd.com"
     - "msg.umengcloud.com"
     - "msspjh.emarbox.com"
+    - "mxsa.mxbc.net"
     - "new-app-api.ylyk.com"
     - "new.vip.weibo.cn"
     - "newclient.map.baidu.com"

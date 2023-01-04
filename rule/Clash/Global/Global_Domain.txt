@@ -1,18 +1,19 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-02 02:10:02
-# DOMAIN: 170
+# UPDATED: 2023-01-05 02:11:16
+# DOMAIN: 171
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37384
+# DOMAIN-SUFFIX: 37386
 # IP-CIDR: 106
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 37704
+# TOTAL: 37707
 abematv.akamaized.net
 amp.akamaized.net
 angle.com.tw
 anime-rule34-world.b-cdn.net
+aod-pod-uk-live.akamaized.net
 api-p.videomarket.jp
 apple.com.akadns.net
 appleworldwidedeveloper.hb-api.omtrdc.net
@@ -5499,6 +5500,7 @@ assets-priconne-redive-us.akamaized.net
 .google.ch
 .google.ci
 .google.cn
+.google.co
 .google.co.ck
 .google.co.id
 .google.com
@@ -9014,6 +9016,7 @@ assets-priconne-redive-us.akamaized.net
 .oss-us-east-1.aliyuncs.com
 .oss-us-west-1.aliyuncs.com
 .osxapps.itunes.g.aaplimg.com
+.otaku-168.com
 .otbm.com
 .otokonokoland.com
 .oudoll.com
