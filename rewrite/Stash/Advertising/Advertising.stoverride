@@ -1,11 +1,11 @@
 name: 复写去广告
-desc: 最后更新时间 2023-01-06 02:12:33
+desc: 最后更新时间 2023-01-07 02:12:56
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
-# reject: 545
-# mitm: 504
+# reject: 543
+# mitm: 503
 # force-http-engine-hosts: 6
-# total: 1055
+# total: 1052
 
 
 
@@ -54,8 +54,6 @@ http:
     - ^https?:\/\/(mobile|shop)\.laichon\.com\/api\/(v1\/goods\/goodsList|exposureAdvStatistics|getWebAdvList) - reject
     - ^https?:\/\/(s3plus|flowplus)\.meituan\.net\/v\d\/\w+\/linglong\/\w+\.(gif|jpg|mp4) - reject
     - ^https?:\/\/(www|cn)\.pornhub\.com\/_xa\/ads.* - reject
-    - ^https?:\/\/.*\.amap\.com\/(ws\/(shield\/scene\/recommend|asa\/ads_attribution)|uploadimg\/\w+\.gif) - reject
-    - ^https?:\/\/.*\.amap\.com\/ws\/boss\/order\/car\/access_guide - reject
     - ^https?:\/\/.+?\/(outadservice|ting\/preload)\/ - reject
     - ^https?:\/\/.+?\/api\/v\d\/adRealTime - reject
     - ^https?:\/\/.+?\/brand\/search\/v1\.json - reject
@@ -600,7 +598,6 @@ http:
     - "*.wtzw.com"
     - "*.ximalaya.com"
     - "*.zhangle.com"
-    - "*amap.com"
     - "*api.oray.net"
     - "*gaoqingdianshi.com"
     - "101.201.175.228"

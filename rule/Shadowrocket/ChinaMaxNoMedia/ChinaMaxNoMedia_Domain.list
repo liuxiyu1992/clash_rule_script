@@ -1,14 +1,14 @@
 # NAME: ChinaMaxNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-06 02:11:53
+# UPDATED: 2023-01-07 02:12:16
 # DOMAIN: 173
 # DOMAIN-KEYWORD: 11
-# DOMAIN-SUFFIX: 67130
+# DOMAIN-SUFFIX: 67111
 # IP-ASN: 932
-# IP-CIDR: 10466
+# IP-CIDR: 10454
 # USER-AGENT: 65
-# TOTAL: 78777
+# TOTAL: 78746
 265.com
 2mdn-cn.net
 accounts.googlers.com
@@ -433,7 +433,6 @@ xn--flw351e.com
 .029yljj.com
 .029zp.com
 .02a5ji7vso.com
-.02edu.com
 .02lu.com
 .02o.pw
 .02pew65z89.com
@@ -2357,6 +2356,7 @@ xn--flw351e.com
 .22zy.net
 .2300sjz.com
 .230596.com
+.230890.com
 .231122.com
 .232232.xyz
 .2323u.com
@@ -4753,7 +4753,6 @@ xn--flw351e.com
 .5360jx.com
 .53617686.com
 .5366.com
-.53666.org
 .5367.com
 .537.com
 .5379yx.com
@@ -8689,7 +8688,6 @@ xn--flw351e.com
 .angelhome.org
 .angeljjangnara.com
 .angell-studio.com
-.angellsec.com
 .angelmom.org
 .angelyeast.com
 .angelyeast.ru
@@ -10753,7 +10751,6 @@ xn--flw351e.com
 .bfypq.com
 .bfyx.com
 .bfyx.net
-.bfzhuce.com
 .bfzzmj.com
 .bg-cs.com
 .bgbk.org
@@ -15787,6 +15784,7 @@ xn--flw351e.com
 .cn3k5.com
 .cn3v.net
 .cn3wm.com
+.cn486.com
 .cn4e.com
 .cn51.com
 .cn5135.com
@@ -18886,7 +18884,6 @@ xn--flw351e.com
 .didiyun.com
 .didiyun.org
 .didiyunapi.com
-.didown.com
 .didu86.com
 .diducoder.com
 .diebaosoft.com
@@ -24796,7 +24793,6 @@ xn--flw351e.com
 .goulong.com
 .goumee.com
 .goumin.com
-.gounahaozi.org
 .goupuzi.com
 .goushh.com
 .gouso.com
@@ -25357,7 +25353,6 @@ xn--flw351e.com
 .gushiciqu.com
 .gushidaquan.cc
 .gushiju.net
-.gushimi.org
 .gushiwen.org
 .gushufang.com
 .gusiyuan.com
@@ -25581,6 +25576,7 @@ xn--flw351e.com
 .gzhe.net
 .gzhhr.com
 .gzhifi.com
+.gzhkl.com
 .gzhphb.com
 .gzhshoulu.wang
 .gzhtg.com
@@ -31857,7 +31853,6 @@ xn--flw351e.com
 .jcsjt.com
 .jctmj.net
 .jctrans.com
-.jctuku.com
 .jcu.cc
 .jcwcn.com
 .jcwgk.com
@@ -35199,7 +35194,6 @@ xn--flw351e.com
 .kqgeo.com
 .kqidong.com
 .kqiwen.com
-.kqiwen.net
 .kqj123.com
 .kqmmm.com
 .kqpgstxx.com
@@ -37242,7 +37236,6 @@ xn--flw351e.com
 .liumuzulin.com
 .liumwei.org
 .liumx.com
-.liunews.com
 .liunian.info
 .liunianbanxia.com
 .liushidong.com
@@ -38538,7 +38531,6 @@ xn--flw351e.com
 .maiduo.com
 .maienguoji.com
 .maifjb.com
-.maigevoice.com
 .maigoo.com
 .maiguduo.com
 .maihanji.com
@@ -40650,7 +40642,6 @@ xn--flw351e.com
 .mtwl.net
 .mtxgx.com
 .mtxyx.com
-.mtyee.com
 .mtyun.com
 .mtzbs.com
 .mtzcjy.com
@@ -43971,7 +43962,6 @@ xn--flw351e.com
 .pinzs.com
 .pioneerlinux.com
 .pioneersci.com
-.pioneertimes.net
 .pipa.com
 .pipacdn.com
 .pipacoding.com
@@ -51859,7 +51849,6 @@ xn--flw351e.com
 .szsq.net
 .szsunlaser.com
 .szswt.net
-.szt365.com
 .sztaijier.com
 .sztalent.org
 .sztara.com
@@ -52732,7 +52721,6 @@ xn--flw351e.com
 .tf.wiki
 .tf86.com
 .tfax.com
-.tfbcj.com
 .tfcaijing.com
 .tfcloud.com
 .tfclub.com
@@ -52764,7 +52752,6 @@ xn--flw351e.com
 .tgbus.com
 .tgcid.org
 .tghello.com
-.tgirl.cc
 .tgjh.com
 .tgking.net
 .tgljw.com
@@ -56352,7 +56339,6 @@ xn--flw351e.com
 .wangzhan6.com
 .wangzhanbao.cc
 .wangzhanbianji.com
-.wangzhanbus.com
 .wangzhanchi.com
 .wangzhanmeng.com
 .wangzhanzj.com
@@ -59969,7 +59955,6 @@ xn--flw351e.com
 .xifuquan.com
 .xigeweb.com
 .xigua110.com
-.xigua5.com
 .xiguaapp.com
 .xiguabook.com
 .xiguaimg.com
@@ -62443,7 +62428,6 @@ xn--flw351e.com
 .yinglunka.com
 .yingmei.me
 .yingmi.com
-.yingmile.com
 .yingming.net
 .yingpaigame.com
 .yingshe.com
@@ -65630,7 +65614,6 @@ xn--flw351e.com
 .zhizunbao668.com
 .zhizunbo.com
 .zhizundns.com
-.zhizunlian.com
 .zhizunnews.com
 .zhizuobiao.com
 .zhizuobiaojiaoyu.com
@@ -66538,7 +66521,6 @@ xn--flw351e.com
 .zmz003.com
 .zmz004.com
 .zmzjk.com
-.zmzjstu.com
 .zn8.com
 .znba.net
 .znbo.com
@@ -66866,7 +66848,6 @@ xn--flw351e.com
 .zuanqianyi.com
 .zuanshi.com
 .zuanshitoupiao.com
-.zuantao.cc
 .zuber.im
 .zubunet.com
 .zuche.com

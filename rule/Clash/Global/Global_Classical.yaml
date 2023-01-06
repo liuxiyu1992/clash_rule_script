@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-06 02:09:26
-# DOMAIN: 171
+# UPDATED: 2023-01-07 02:09:46
+# DOMAIN: 173
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37385
+# DOMAIN-SUFFIX: 37396
 # IP-CIDR: 106
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 37706
+# TOTAL: 37719
 payload:
   - DOMAIN,abematv.akamaized.net
   - DOMAIN,amp.akamaized.net
@@ -25,6 +25,7 @@ payload:
   - DOMAIN,assets1.xboxlive.com
   - DOMAIN,assets2.xboxlive.com
   - DOMAIN,audio-ak-spotify-com.akamaized.net
+  - DOMAIN,audio4-ak-spotify-com.akamaized.net
   - DOMAIN,az416426.vo.msecnd.net
   - DOMAIN,az764295.vo.msecnd.net
   - DOMAIN,azure.microsoft.com
@@ -63,6 +64,7 @@ payload:
   - DOMAIN,firstsearch.oclc.org
   - DOMAIN,gamedownloads-rockstargames-com.akamaized.net
   - DOMAIN,gog.qtlglb.com
+  - DOMAIN,heads-ak-spotify-com.akamaized.net
   - DOMAIN,heads4-ak-spotify-com.akamaized.net
   - DOMAIN,hearthstone.nosdn.127.net
   - DOMAIN,heroes.nos.netease.com
@@ -1385,6 +1387,7 @@ payload:
   - DOMAIN-SUFFIX,avn.com
   - DOMAIN-SUFFIX,avnana5.com
   - DOMAIN-SUFFIX,avpanda.cc
+  - DOMAIN-SUFFIX,avple.tv
   - DOMAIN-SUFFIX,avsee01.tv
   - DOMAIN-SUFFIX,avseesee.com
   - DOMAIN-SUFFIX,avsforum.com
@@ -3255,6 +3258,7 @@ payload:
   - DOMAIN-SUFFIX,cumswappingsis.com
   - DOMAIN-SUFFIX,cumteenporn.com
   - DOMAIN-SUFFIX,cuntempire.com
+  - DOMAIN-SUFFIX,cuntwars.com
   - DOMAIN-SUFFIX,cups.org
   - DOMAIN-SUFFIX,curbed.com
   - DOMAIN-SUFFIX,currently.com
@@ -4078,6 +4082,7 @@ payload:
   - DOMAIN-SUFFIX,ed21.cc
   - DOMAIN-SUFFIX,edditstatic.com
   - DOMAIN-SUFFIX,edengay.net
+  - DOMAIN-SUFFIX,edge-skype-com.s-0001.s-msedge.net
   - DOMAIN-SUFFIX,edgefonts.net
   - DOMAIN-SUFFIX,edgemeplease.com
   - DOMAIN-SUFFIX,edisebay.com
@@ -4642,6 +4647,7 @@ payload:
   - DOMAIN-SUFFIX,faproulette.online
   - DOMAIN-SUFFIX,fapsafari.com
   - DOMAIN-SUFFIX,fapteencam.com
+  - DOMAIN-SUFFIX,faptitans.com
   - DOMAIN-SUFFIX,fapvid.com
   - DOMAIN-SUFFIX,fareastpornhub.com
   - DOMAIN-SUFFIX,farfetch-apps.com
@@ -6003,6 +6009,7 @@ payload:
   - DOMAIN-SUFFIX,hongmaodan100.com
   - DOMAIN-SUFFIX,honkaistarrail.com
   - DOMAIN-SUFFIX,hoodamateurs.com
+  - DOMAIN-SUFFIX,hooligapps.com
   - DOMAIN-SUFFIX,hooloo.tv
   - DOMAIN-SUFFIX,hoolu.com
   - DOMAIN-SUFFIX,hoolu.tv
@@ -7145,6 +7152,7 @@ payload:
   - DOMAIN-SUFFIX,knoxemm.com
   - DOMAIN-SUFFIX,koalaporn.com
   - DOMAIN-SUFFIX,kobbeatssbydredk.com
+  - DOMAIN-SUFFIX,kobe-pastel.com
   - DOMAIN-SUFFIX,kodi.tv
   - DOMAIN-SUFFIX,kodi.wiki
   - DOMAIN-SUFFIX,kompoz.com
@@ -10533,6 +10541,7 @@ payload:
   - DOMAIN-SUFFIX,sexxxhd.com
   - DOMAIN-SUFFIX,sexxxxfilms.com
   - DOMAIN-SUFFIX,sexy-babe-pics.com
+  - DOMAIN-SUFFIX,sexy-more.com
   - DOMAIN-SUFFIX,sexy-torrents.com
   - DOMAIN-SUFFIX,sexy3dtoon.com
   - DOMAIN-SUFFIX,sexycandidgirls.com
@@ -10698,9 +10707,11 @@ payload:
   - DOMAIN-SUFFIX,skydweller.cn
   - DOMAIN-SUFFIX,skyoceanrescue.com
   - DOMAIN-SUFFIX,skyoceanrescue.it
+  - DOMAIN-SUFFIX,skype-edf.akadns.net
   - DOMAIN-SUFFIX,skype.net
   - DOMAIN-SUFFIX,skypeassets.com
   - DOMAIN-SUFFIX,skypeassets.net
+  - DOMAIN-SUFFIX,skypedata.akadns.net
   - DOMAIN-SUFFIX,skyporn.online
   - DOMAIN-SUFFIX,skysports.com
   - DOMAIN-SUFFIX,skysportsonline.com
@@ -10717,6 +10728,7 @@ payload:
   - DOMAIN-SUFFIX,slimspots.com
   - DOMAIN-SUFFIX,sling.com
   - DOMAIN-SUFFIX,slinginternational.com
+  - DOMAIN-SUFFIX,slotbitches.com
   - DOMAIN-SUFFIX,slutclit.com
   - DOMAIN-SUFFIX,sm.ms
   - DOMAIN-SUFFIX,smallteenpussy.com
@@ -10732,6 +10744,7 @@ payload:
   - DOMAIN-SUFFIX,smowtion.com
   - DOMAIN-SUFFIX,smpte.org
   - DOMAIN-SUFFIX,smutindia.com
+  - DOMAIN-SUFFIX,smutstone.com
   - DOMAIN-SUFFIX,smuttymoms.com
   - DOMAIN-SUFFIX,snap-dev.net
   - DOMAIN-SUFFIX,snap-telemetry.io
