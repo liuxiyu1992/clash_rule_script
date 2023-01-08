@@ -6,6 +6,10 @@
 # DOMAIN-SUFFIX: 34
 # TOTAL: 37
 payload:
+  - DOMAIN-SUFFIX,4837.misakaf.org
+  - DOMAIN-SUFFIX,cf2.misakaf.org
+  - DOMAIN-SUFFIX,bsem.ddns.me
+  - DOMAIN-SUFFIX,cf.cjpc.tv
   - DOMAIN-SUFFIX,agahk1.jmsooo.com
   - DOMAIN-SUFFIX,agajp1.jmsooo.com
   - DOMAIN-SUFFIX,agasg1.jmsooo.com
